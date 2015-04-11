@@ -1,6 +1,6 @@
 {
-    "name": "ustream/daemon",
-    "description": "Ustream daemon",
+    "name": "gerifield/daemon",
+    "description": "Ustream daemon for with updated event-dispatcher version number",
     "extra": {
         "branch-alias": {
             "dev-master": "0.1.x-dev"
